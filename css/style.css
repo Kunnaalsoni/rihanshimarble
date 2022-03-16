@@ -86,7 +86,7 @@ h6 {
 }
 
 .h1-title {
-    font-size: 80px;
+    font-size: 70px;
     line-height: 90px;
     text-transform: uppercase;
     margin-bottom: 30px;
@@ -2234,7 +2234,7 @@ textarea.form-input {
         padding-right: 0;
     }
     .h1-title {
-        font-size: 70px;
+        font-size: 60px;
         line-height: 80px;
     }
     .banner-text p {
@@ -2859,7 +2859,7 @@ textarea.form-input {
         padding: 0 30px;
     }
     .h1-title {
-        font-size: 40px;
+        font-size: 30px;
         line-height: 45px;
         margin-bottom: 20px;
     }
