@@ -1906,8 +1906,18 @@ textarea.form-input {
 /*==========Project Details Page CSS==========*/
 
 .project-banner {
-    padding-top: 180px;
+    margin-bottom: 50px;
 }
+
+.column {
+    display: flex;
+    align-items: center;
+}
+
+.project-detail-text {
+    margin: 100px;
+}
+
 
 .project-banner-img {
     width: 100%;
